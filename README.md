@@ -2,6 +2,7 @@
 Welcome to the 2DoList App, your go-to solution for streamlined task management and productivity. Developed with the latest technologies, including React, TypeScript, AWS Lambda, and MySQL Aurora Serverless v2, this app offers a feature-rich experience to help you stay organized and focused.
 
 Key Features:
+
 Add, Edit, and Delete Tasks:
 Effortlessly manage your tasks by adding new ones, editing details on the go, and removing completed or outdated items.
 
